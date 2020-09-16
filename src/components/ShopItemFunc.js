@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from 'prop-types';
 import ItemModel from "../models/ItemModel";
 class ShopItemFunc extends React.Component {
+    // eslint-disable-next-line no-useless-constructor
     constructor(props) {
         super(props);
     }
